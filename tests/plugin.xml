@@ -5,7 +5,7 @@
   found in the LICENSE file.
 -->
 <plugin xmlns="http://cordova.apache.org/ns/plugins/1.0"
-    id="org.chromium.system.display.tests"
+    id="cordova-plugin-chrome-apps-system-display-tests"
     version="1.1.1-dev">
 
   <name>Chrome System Display Tests</name>
