@@ -13,8 +13,8 @@
 
   <name>Chrome System Display API</name>
   <keywords>chrome,system,display</keywords>
-  <repo>https://github.com/MobileChromeApps/mobile-chrome-apps.git</repo>
-  <issue>https://github.com/MobileChromeApps/mobile-chrome-apps/issues</issue>
+  <repo>https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-system-display.git</repo>
+  <issue>https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-system-display/issues</issue>
 
   <js-module src="system.display.js" name="system.display">
     <clobbers target="chrome.system.display" />
