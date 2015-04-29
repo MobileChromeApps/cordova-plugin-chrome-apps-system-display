@@ -1,0 +1,36 @@
+{
+  "name": "cordova-plugin-chrome-apps-system-display",
+  "version": "1.1.1-dev",
+  "description": "This plugin provides the ability to query display metadata.",
+  "cordova": {
+    "id": "cordova-plugin-chrome-apps-system-display",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-system-display.git"
+  },
+  "keywords": [
+    "chrome",
+    "system",
+    "display",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-system-display/issues"
+  },
+  "homepage": "https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-system-display"
+}
